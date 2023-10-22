@@ -28,7 +28,7 @@ The purpose of this analysis was to create deep learning models for Alphabet Sou
 
 - The neural network model had the following configuration:
   - Two hidden layers with Tanh activation functions.
-  - A dropout layer with a 40% dropout rate was added.
+  - A dropout layer with a 40% dropout rate was added after the first hidden layer.
 - The model achieved an accuracy of approximately 72.74%, with a loss of about 0.5647.
 
 #### Model oo
