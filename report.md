@@ -14,7 +14,7 @@ The purpose of this analysis was to create deep learning models for Alphabet Sou
 
 #### Original Model
 
-[OriginalResults](Resources/InitialResults.png)
+![OriginalResults](Resources/InitialResults.png)
 
 - The original model had the following configuration:
   - Three layers with the setup 8:5:1 and activation functions Relu:Relu:Sigmoid.
@@ -22,7 +22,7 @@ The purpose of this analysis was to create deep learning models for Alphabet Sou
 
 #### Optimization attempts:
 
-[OptimizationResults](Resources/OptimizationResults.png)
+![OptimizationResults](Resources/OptimizationResults.png)
 
 #### Model nn
 
